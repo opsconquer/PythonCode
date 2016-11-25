@@ -8,3 +8,5 @@ https://github.com/yorkoliu/pyauto   python自动化运维
 
 
 http://www.aws-faq.com/column
+
+https://github.com/June-Wang/github4shell  shell
