@@ -15,3 +15,4 @@ https://github.com/dongweiming/mp/tree/master/2016-12-01  python 并发编程
 
 https://github.com/taizilongxu/interview_python
 
+https://taizilongxu.gitbooks.io/stackoverflow-about-python/content/5/README.html
