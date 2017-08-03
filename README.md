@@ -22,3 +22,5 @@ https://github.com/June-Wang/github4shell
 https://www.kubernetes.org.cn/docs
 
 https://taizilongxu.gitbooks.io/stackoverflow-about-python/content/36/README.html 
+
+https://github.com/feiskyer/kubernetes-handbook
