@@ -28,3 +28,10 @@ https://github.com/feiskyer/kubernetes-handbook
 https://github.com/xtuyaowu/jtyd_python_spider
 
 https://github.com/Pingze-github/timetable-py/blob/master/timetable.py
+
+https://github.com/tobegit3hub/harbor-py
+https://github.com/vmware/harbor/tree/master/contrib/sdk/harbor-py
+
+https://github.com/int32bit/leetcode
+
+https://github.com/int32bit/python-harborclient/blob/master/README.zh.md
