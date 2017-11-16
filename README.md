@@ -38,6 +38,11 @@ https://github.com/int32bit/python-harborclient/blob/master/README.zh.md
 
 https://demo.getqor.com/admin/colors?order_by=code_desc
 
+http://jaminzhang.github.io/glusterfs/GlusterFS-02-Deploy-and-Config/
+
+
+
+
 https://demo.getqor.com/admin/colors?order_by=code_desc
 
 
